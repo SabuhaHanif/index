@@ -4,3 +4,8 @@ h1{
     width: 100vw;
     background-color: black;
 }
+footer{
+    background-color: blue;
+    height: 400px;
+    width: 400px;
+}
